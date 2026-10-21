@@ -5,7 +5,7 @@
 
 | Week    | Topic Name                             | Due Date    | Date Submitted | Completed | Deployed Link |
 | ------- | -------------------------------------- | ----------- | -------------- | --------- | ------------- |
-| Week 1  | 1. Intro to HTML                       | 26 Oct 2026 | 26 Oct 2026               |           |               |
+| Week 1  | 1. Intro to HTML                       | 26 Oct 2026 | 21 Oct 2026               |           |               |
 | Week 1  | 2. HTML Forms and Tables               | 26 Oct 2026 |                |           |               |
 | Week 1  | 3. Intro to Git & Github               | 26 Oct 2026 |                |           |               |
 | Week 1  | 4. Intro to CSS                        | 26 Oct 2026 |                |           |               |
